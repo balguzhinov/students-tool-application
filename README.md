@@ -7,12 +7,8 @@
 Developed an application for our final project in the iOS development course. This application was made for students, for convenient viewing of the latest news, for easy tracking of their to-do list and for viewing the university's Moodle.
 
 ## Demo
-
-Insert gif or link to demo
-
-
-https://user-images.githubusercontent.com/75177898/184494311-d5fba22c-6057-4ccc-b150-25fb110976c8.mov
-
+[![Watch the video]([https://youtu.be/T-D1KVIuvjA](https://www.youtube.com/shorts/uQcpNUhgZV4
+))
 
 
 ## Tech Stack
