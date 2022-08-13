@@ -11,6 +11,10 @@ Developed an application for our final project in the iOS development course. Th
 Insert gif or link to demo
 
 
+https://user-images.githubusercontent.com/75177898/184494311-d5fba22c-6057-4ccc-b150-25fb110976c8.mov
+
+
+
 ## Tech Stack
 
 **Used:** SwiftUI, Firebase, Realm, NewsAPI, Google Auth, SDWebImage, WKWebView
